@@ -8,3 +8,4 @@ wheels/
 # Virtual environment
 .env
 .venv
+.vscode/mcp.json
